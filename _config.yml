@@ -1,0 +1,11 @@
+title: GameMaker Server Blog
+description: >-
+  A collection of ramblings about GameMaker Server, its history, and technical challenges building multiplayer games.
+baseurl: ""
+url: ""
+github_username:  size43-gamemakerserver
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
